@@ -38,6 +38,10 @@ label{
     margin-left: auto;
 }
 
+.btn:hover{
+    background-color:rgb(73, 56, 224) ;
+}
+
 input{
     padding: 2%;
     margin: 5%;
